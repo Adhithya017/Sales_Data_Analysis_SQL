@@ -70,6 +70,15 @@ Below is the architecture of the implemented solution:
 
 ---
 
+## How to Run the Project
+
+1. Clone the repo using `git clone ...`
+2. Open the `.dtsx` files in SQL Server Data Tools (SSDT) to view/edit SSIS packages.
+3. Deploy and execute stored procedures and SSIS packages in SQL Server.
+4. Open `Power BI` dashboard and connect to the SSAS tabular model.
+
+---
+
 ## Screenshots
 
 #### BI Dashboard:
